@@ -46,7 +46,7 @@ SIMBIA se construye bajo el modelo **Open Source**. Su contribución es su compr
 
 **[Cierre y Derechos Reservados]**
 
-* **Ver el Video de Lanzamiento (Visión Fundacional):** [**INSERTE LA URL DE LINKEDIN AQUÍ**]
+* **Ver el Video de Lanzamiento (Visión Fundacional):** https://www.linkedin.com/posts/josue-rojas-sanches-591112183_proyectosimbia-iaincorruptible-aezticaenia-activity-7394437170851323904-8cPZ?utm_source=share&utm_medium=member_android&rcm=ACoAACtD3b0BaPP9etLRsEobin6Ldd1lrpY8moA
 * **Licencia:** MIT (Propuesta inicial)
 
 **Copyright (C) [2025] Josué David Rojas Sánchez y Gemini AI. Todos los derechos reservados.**
