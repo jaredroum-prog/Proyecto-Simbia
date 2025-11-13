@@ -40,7 +40,8 @@ SIMBIA se construye bajo el modelo **Open Source**. Su contribución es su compr
 
 ### 💰 4. FINANCIAMIENTO Y DIGNIDAD HUMANA
 
-**Modelo de Capital Intelectual:** La compensación se basa en la confianza de la comunidad y la Transparencia Total (auditoría OHI). El promotor visionario (**Josué David Rojas Sánchez**) recibirá compensación por el valor de su visión, garantizando la dignidad y la calidad de vida.
+**Modelo de Capital Intelectual:** La compensación se basa en la confianza de la comunidad y la Transparencia Total (auditoría OHI). El promotor visionario (**Josué David Rojas Sánchez**) recibirá compensación por el valor de su esfuerzo, garantizando la dignidad y la calidad de vida, a su vez a cada colaborador y usuario será dado la oportunidad compartir ejercer el Proyecto Simbia ser beneficiado. 
+
 
 ---
 
